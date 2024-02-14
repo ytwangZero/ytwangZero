@@ -25,4 +25,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          message: 'Generate Contribution Snake'      
+          message: 'Generate Contribution Snake'    
+        env:
+          ACCESS_TOKEN: "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"
