@@ -27,4 +27,4 @@ jobs:
           branch: main
           message: 'Generate Contribution Snake'    
         env:
-          ACCESS_TOKEN: "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"
+          ACCESS_TOKEN: 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
