@@ -2,9 +2,9 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=27"> </a> </h1>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div>
 
-🔭 I’m currently working on building an R package, easyEWAS.
-🌱 I’m currently learning bioinformatics.
-📫 My Email: ytwang@pku.edu.cn
+🔭 I’m currently working on building an R package named ***easyEWAS***.<br>
+🌱 I’m currently learning bioinformatics.<br>
+📫 My Email: ytwang@pku.edu.cn<br>
 <!--
 **ytwangZero/ytwangZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
