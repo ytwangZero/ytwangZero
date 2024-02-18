@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋<br>
+I am a current master’s student in <a href="https://gearpku2020.github.io//">**GEAR**</a></li>, having completed my undergraduate studies at the School of Public Health, Peking University. My primary research focus lies in environmental health and epigenetic epidemiology. Additionally, I hold a keen interest in machine learning and the development of R packages associated with this field.
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=27"> </a> </h1>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div>
 
