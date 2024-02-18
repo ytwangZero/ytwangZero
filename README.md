@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/ytwangZero/count.svg)<br>
-
 ### Hi there 👋<br>
 I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.io//">**GEAR**</a></li>, having completed my undergraduate studies at the School of Public Health, Peking University. My primary research focus lies in environmental health and epigenetic epidemiology. Additionally, I hold a keen interest in machine learning and the development of R packages associated with this field.
 
@@ -11,6 +9,8 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 😄 Pronouns: per aspera ad astra.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/ytwangZero/count.svg)<br> visitor. Thank you!:blue_heart:
 
 <!--
 **ytwangZero/ytwangZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
