@@ -12,7 +12,6 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div>
 
-You are my  visitor. Thank you!😄
 
 <!--
 **ytwangZero/ytwangZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
