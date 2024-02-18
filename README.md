@@ -16,20 +16,15 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
 ### About me
-![](https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=transparent) 
 
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&hide_border=true" />
+ 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-<!--
-**ytwangZero/ytwangZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on building an R package, easyEWAS.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
