@@ -10,8 +10,9 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 📫 You can reach me by sending email to <ytwang@pku.edu.cn><br>
 😄 Pronouns: per aspera ad astra.
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
+### About me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=tokyonight)
 
 
