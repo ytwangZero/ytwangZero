@@ -13,7 +13,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
 ### About me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=tokyonight)
 
 
 <!--
