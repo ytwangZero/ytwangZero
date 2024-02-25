@@ -10,7 +10,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 
 🔭 I’m currently working on building an R package named <a href="https://github.com/ytwangZero/easyEWAS">***easyEWAS***</a></li> and its shiny APP <a href="https://github.com/ytwangZero/ewasAPP/tree/main">***ewasAPP***</a></li>.<br>
 🌱 I’m currently preparing for my master's degree project.<br>
-📫 You can reach me by sending email to <ytwang@pku.edu.cn><br>
+📫 You can reach me by mailing to <ytwang@pku.edu.cn><br>
 😄 Pronouns: per aspera ad astra.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
