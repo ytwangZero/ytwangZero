@@ -31,8 +31,12 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
     </td>
   </tr>
 </table>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ytwangZero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🧰 Tech Stack
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-45b8d8?style=flat&logo=rstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
 
