@@ -23,5 +23,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
   <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=holi)
+
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
