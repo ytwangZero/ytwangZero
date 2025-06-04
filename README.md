@@ -33,3 +33,6 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
