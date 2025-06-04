@@ -2,7 +2,7 @@
 
 ### Hi there 👋<br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ytwangZero)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:qq2750811897@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ytwangzero@gmail.com)
 
 I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.io//">**GEAR**</a></li>, having completed my undergraduate studies at the School of Public Health, Peking University. My primary research focus lies in environmental health and epigenetic epidemiology. I also hold a keen interest in machine learning and the development of R packages associated with this field.
 
