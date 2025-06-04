@@ -42,7 +42,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <details>
 <summary>🎁 Click for a surprise</summary>
   
-[🐍 Play a Game!](https://playsnake.org/)
+> [🐍 Play a Game!](https://playsnake.org/)
 
 </details>
 
