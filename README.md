@@ -15,7 +15,10 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
-![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi" />
+</div>
+
+
+![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
