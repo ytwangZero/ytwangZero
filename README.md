@@ -39,12 +39,12 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
 
-<details>
-<summary>🎁 Click for a surprise</summary>
-  
-> Why did the biostatistician break up with the epidemiologist?  
-> Because they lacked correlation. 😉
+### 🎮 Play a Game!
+[🧠 Try this classic memory game!](https://memory-game-six-phi.vercel.app/)
 
-</details>
+or
+
+[🐍 Play Snake](https://playsnake.org/)
+
 
 
