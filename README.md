@@ -31,9 +31,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
     </td>
   </tr>
 </table>
-
-![Visitor Map](https://api.visitorbadge.io/api/visitors?path=ytwangZero&label=Visitors&countColor=%23263759&style=flat-square)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ytwangZero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
