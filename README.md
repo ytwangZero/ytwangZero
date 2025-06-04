@@ -19,11 +19,17 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
 ## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi" />
-</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=holi)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=holi" />
+    </td>
+  </tr>
+</table>
 
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
