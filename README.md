@@ -40,10 +40,6 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 🎮 Play a Game!
-[🧠 Try this classic memory game!](https://memory-game-six-phi.vercel.app/)
-
-or
-
 [🐍 Play Snake](https://playsnake.org/)
 
 
