@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/ytwangZero/count.svg)<br>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ytwangZero)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ytwangzero@gmail.com)
@@ -31,6 +31,9 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
     </td>
   </tr>
 </table>
+
+![Visitor Map](https://api.visitorbadge.io/api/visitors?path=ytwangZero&label=Visitors&countColor=%23263759&style=flat-square)
+
 
 
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
