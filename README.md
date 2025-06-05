@@ -25,7 +25,10 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 ![Shiny](https://img.shields.io/badge/Shiny-45b8d8?style=flat&logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![RPackageDev](https://img.shields.io/badge/R_Package-Developer-informational)
 ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B0-darkblue)
+![Bug-Free](https://img.shields.io/badge/Code-Bug_Free-green)
 
 <table>
   <tr>
