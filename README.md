@@ -29,6 +29,8 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 ![RPackageDev](https://img.shields.io/badge/R_Package-Developer-informational)
 ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B0-darkblue)
 ![Bug-Free](https://img.shields.io/badge/Code-Bug_Free-green)
+[![My Lab](https://img.shields.io/badge/My_Lab-GEAR@PKU-blue?style=flat&logo=academia&logoColor=white)](https://gearpku2020.github.io/)
+
 
 <table>
   <tr>
