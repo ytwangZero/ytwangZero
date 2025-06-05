@@ -19,7 +19,7 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
 ## Github Stats
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-45b8d8?style=flat&logo=rstudio&logoColor=white)
