@@ -6,13 +6,6 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ytwangzero@outlook.com)
 [![QQ邮箱](https://img.shields.io/badge/-QQ邮箱-FFA500?style=flat&logo=Mail.Ru&logoColor=white)](mailto:2750811897@qq.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-45b8d8?style=flat&logo=rstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B0-darkblue)
 
 I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.io//">**GEAR**</a></li>, having completed my undergraduate studies at the School of Public Health, Peking University. My primary research focus lies in environmental health and epigenetic epidemiology. I also hold a keen interest in machine learning and the development of R packages associated with this field.
 
@@ -26,6 +19,13 @@ I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
 ## Github Stats
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-45b8d8?style=flat&logo=rstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%B0-darkblue)
 
 <table>
   <tr>
