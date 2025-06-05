@@ -7,7 +7,6 @@
 [![QQ邮箱](https://img.shields.io/badge/-QQ邮箱-FFA500?style=flat&logo=Mail.Ru&logoColor=white)](mailto:2750811897@qq.com)
 [![X](https://img.shields.io/badge/-@zero-000000?style=flat&logo=X&logoColor=white)](https://twitter.com/ytwang_zero)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
