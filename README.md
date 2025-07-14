@@ -1,4 +1,5 @@
-![Visitor Count](https://count.getloli.com/get/@ytwangZero.github.readme?theme=rule34)
+![Profile views](https://komarev.com/ghpvc/?username=ytwangZero&color=blue)
+
 
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
