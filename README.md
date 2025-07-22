@@ -7,15 +7,12 @@
 [![QQ邮箱](https://img.shields.io/badge/-QQ邮箱-FFA500?style=flat&logo=Mail.Ru&logoColor=white)](mailto:2750811897@qq.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
 
-I'm Yuting, a current master’s student in <a href="https://gearpku2020.github.io//">**GEAR**</a></li>, having completed my undergraduate studies at the School of Public Health, Peking University. My primary research focus lies in environmental health and epigenetic epidemiology. I also hold a keen interest in machine learning and the development of R packages associated with this field.
-
 I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab**</a></li> at Lee Kong Chian School of Medicine, Nanyang Technological University Singapore (NTU). My research focuses on leveraging cutting-edge multi-omics technologies and machine learning approaches to capture the molecular features and dynamic trajectories of human aging and age-related diseases. I am also interested in developing bioinformatics tools to address current gaps in omics data analysis, with a particular emphasis on metabolomics.
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=27"> </a> </h1>
 
 🔭 I’m currently working on building an R package named <a href="https://github.com/ytwangZero/easyEWAS">***easyEWAS***</a></li> and its shiny APP <a href="https://github.com/ytwangZero/ewasAPP/tree/main">***ewasAPP***</a></li>.<br>
-🌱 I’m currently preparing for my master's degree project.<br>
-📫 You can reach me by mailing to <ytwang@pku.edu.cn><br>
+📫 You can reach me by mailing to <YUTING012@e.ntu.edu.sg><br> or <ytwangzero@outlook.com><br>.
 😄 Pronouns: per aspera ad astra.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
