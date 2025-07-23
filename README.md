@@ -13,8 +13,7 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 
 😄 Pronouns: per aspera ad astra<br>
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
-📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com><br>
-
+📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
