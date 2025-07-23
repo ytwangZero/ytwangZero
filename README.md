@@ -15,7 +15,6 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
 📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytwangZero&theme=github-compact&hide_border=true" />
 </div>
