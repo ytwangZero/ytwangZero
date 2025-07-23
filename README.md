@@ -17,7 +17,7 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ytwangZero" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytwangZero&theme=github-compact&hide_border=true" />
 </div>
 
 ## Github Stats
