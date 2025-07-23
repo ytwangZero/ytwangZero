@@ -16,6 +16,9 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ytwangZero" />
+</div>
 
 ## Github Stats
 
