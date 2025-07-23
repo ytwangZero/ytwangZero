@@ -11,9 +11,10 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=27"> </a> </h1>
 
+😄 Pronouns: per aspera ad astra<br>
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
 📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com><br>
-😄 Pronouns: per aspera ad astra.
+
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ytwangZero" /> </div><br>
 
