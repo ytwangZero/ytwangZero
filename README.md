@@ -19,9 +19,6 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
   <img src="https://github-profile-trophy.vercel.app/?username=ytwangZero&theme=algolia&margin-w=10&no-frame=true" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=PhD+Student+in+Bioinformatics;Metabolomics+and+Multi-Omics+Researcher;R+%7C+Python+%7C+Machine+Learning;Welcome+to+my+GitHub!&center=true&size=26&duration=3000">
-</div>
 
 ## Github Stats
 
