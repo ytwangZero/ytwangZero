@@ -38,7 +38,7 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=holi" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=tokyonight&rank_icon=github" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=holi" />
