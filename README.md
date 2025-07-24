@@ -15,9 +15,9 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
 📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ytwangZero&theme=algolia&margin-w=10&no-frame=true" />
-</div>
+![Contributions](https://img.shields.io/badge/Contributions-10k%2B-brightgreen?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-150%2B-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-500%2B-yellow?style=for-the-badge&logo=star)
 
 
 ## Github Stats
