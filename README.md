@@ -15,9 +15,8 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
 📫 You can reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com>
 
-<p align="center">
-  <img src="https://weather-widget.vercel.app/api?city=Singapore&unit=metric" />
-</p>
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 
