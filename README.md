@@ -10,6 +10,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hHmZrHMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0004-3804-1139)
+[![Shen Lab](https://img.shields.io/badge/Shen_Lab-1E4D8B?style=flat&logo=GitBook&logoColor=white)](https://www.shen-lab.org/)
 [![Homepage](https://img.shields.io/badge/Homepage-181717?style=flat&logo=github&logoColor=white)](https://ytwangzero.github.io)
 
 
