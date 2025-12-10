@@ -4,13 +4,13 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ytwangzero@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ytwangzero@outlook.com)
+[![NTU Email](https://img.shields.io/badge/NTU_Email-A50F2D?style=flat&logo=maildotru&logoColor=white)](mailto:yuting012@e.ntu.edu.sg)
+[![PKU Email](https://img.shields.io/badge/PKU_Email-B00000?style=flat&logo=maildotru&logoColor=white)](mailto:你的邮箱@pku.edu.cn)
 [![QQ邮箱](https://img.shields.io/badge/-QQ邮箱-FFA500?style=flat&logo=Mail.Ru&logoColor=white)](mailto:2750811897@qq.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hHmZrHMAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0004-3804-1139)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://ytwangzero.github.io)
-[![NTU Email](https://img.shields.io/badge/NTU_Email-A50F2D?style=flat&logo=maildotru&logoColor=white)](mailto:yuting012@e.ntu.edu.sg)
-
+[![Homepage](https://img.shields.io/badge/Homepage-181717?style=flat&logo=github&logoColor=white)](https://ytwangzero.github.io)
 
 
 I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab**</a></li> at Lee Kong Chian School of Medicine, Nanyang Technological University Singapore (NTU). My research focuses on leveraging cutting-edge multi-omics technologies and machine learning approaches to capture the molecular features and dynamic trajectories of human aging and age-related diseases. I am also interested in developing bioinformatics tools to address current gaps in omics data analysis, with a particular emphasis on metabolomics.
