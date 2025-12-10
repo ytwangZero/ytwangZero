@@ -2,10 +2,10 @@
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
 
+[![NTU Email](https://img.shields.io/badge/NTU_Email-003D7C?style=flat&logo=maildotru&logoColor=white)](mailto:yuting012@e.ntu.edu.sg)
+[![PKU Email](https://img.shields.io/badge/PKU_Email-B00000?style=flat&logo=maildotru&logoColor=white)](mailto:ytwang@pku.edu.cn)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ytwangzero@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ytwangzero@outlook.com)
-[![NTU Email](https://img.shields.io/badge/NTU_Email-A50F2D?style=flat&logo=maildotru&logoColor=white)](mailto:yuting012@e.ntu.edu.sg)
-[![PKU Email](https://img.shields.io/badge/PKU_Email-B00000?style=flat&logo=maildotru&logoColor=white)](mailto:你的邮箱@pku.edu.cn)
 [![QQ邮箱](https://img.shields.io/badge/-QQ邮箱-FFA500?style=flat&logo=Mail.Ru&logoColor=white)](mailto:2750811897@qq.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yuting-Wang-112)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hHmZrHMAAAAJ&hl=en)
