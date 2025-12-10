@@ -40,16 +40,6 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 [![My Lab](https://img.shields.io/badge/My_Lab-GEAR@PKU-blue?style=flat&logo=academia&logoColor=white)](https://gearpku2020.github.io/)
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ytwangZero&show_icons=true&theme=tokyonight&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytwangZero&layout=compact&theme=holi" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytwangZero&theme=github-compact&hide_border=true" />
