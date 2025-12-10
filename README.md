@@ -57,7 +57,3 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 
 </details>
 
-
-
-
-![GitHub World](https://github-profile-summary-cards.vercel.app/api/cards/worldmap?username=ytwangZero&theme=tokyonight)
