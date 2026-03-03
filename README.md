@@ -16,7 +16,7 @@
 
 I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab**</a></li> at Lee Kong Chian School of Medicine, Nanyang Technological University Singapore (NTU). My research focuses on leveraging cutting-edge multi-omics technologies and machine learning approaches to capture the molecular features and dynamic trajectories of human aging and age-related diseases. I am also interested in developing bioinformatics tools to address current gaps in omics data analysis, with a particular emphasis on metabolomics.
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%20to%20zero%20Github!&center=true&size=30"> </a> </h1>
 
 🌐 Check out my personal website: <a href="https://ytwangzero.github.io/">ytwangzero.github.io</a><br>
 📫 Reach me by mailing to <yuting012@e.ntu.edu.sg> or <ytwangzero@outlook.com><br>
