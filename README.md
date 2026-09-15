@@ -40,11 +40,6 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 [![My Lab](https://img.shields.io/badge/My_Lab-GEAR@PKU-blue?style=flat&logo=academia&logoColor=white)](https://gearpku2020.github.io/)
 
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytwangZero&theme=github-compact&hide_border=true" />
-</div>
-
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
 
 <details>
