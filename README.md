@@ -39,15 +39,8 @@ I'm Yuting, a PhD candidate from <a href="https://www.shen-lab.org/">**Shen Lab*
 ![Bug-Free](https://img.shields.io/badge/Code-Bug_Free-green)
 [![My Lab](https://img.shields.io/badge/My_Lab-GEAR@PKU-blue?style=flat&logo=academia&logoColor=white)](https://gearpku2020.github.io/)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ytwangZero&theme=tokyonight&hide_border=true" />
-</div>
-
 ![](https://github.com/ytwangZero/ytwangZero/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ytwangZero&theme=tokyonight" />
-</div>
 
 <details>
 <summary>🎁 Click for a surprise</summary>
